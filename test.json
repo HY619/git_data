@@ -27,7 +27,7 @@
         "id": "baiduyun",
         "name": "百度云资源",
         "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
-        "group": "normal",
+        "group": "premium",
         "enabled": true,
         "priority": 4
     },
