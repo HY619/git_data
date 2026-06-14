@@ -1,158 +1,23 @@
 {
-  "storeHouse": [],
-  "sites": [
-    {
-      "key": "feifan",
-      "name": "非凡资源",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "wolong",
-      "name": "卧龙资源",
-      "type": 1,
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "zuida",
-      "name": "最大资源",
-      "type": 1,
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "baiduyun",
-      "name": "百度云资源",
-      "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "baofeng",
-      "name": "暴风资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "jisu",
-      "name": "极速资源",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "tianya",
-      "name": "天涯资源",
-      "type": 1,
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "wujin",
-      "name": "无尽资源",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "modu",
-      "name": "魔都资源",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "sanliuling",
-      "name": "360资源",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "dytt",
-      "name": "电影天堂",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "ruyi",
-      "name": "如意资源",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "wangwang",
-      "name": "旺旺资源",
-      "type": 1,
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "hongniu",
-      "name": "红牛资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    },
-    {
-      "key": "guangsu",
-      "name": "光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": ""
-    }
-  ],
-  "parses": [],
-  "spider": "",
-  "wallpaper": ""
+"sites":[
+{
+"key":"源1",
+"name":"优质影视",
+"api":"https://example.com/api/v1",
+"searchable":1,
+"quickSearch":1
+},
+{
+"key":"源2",
+"name":"动漫专区",
+"api":"https://anime.example.com/api",
+"searchable":1
+}
+],
+"parses":[
+{
+"name":"通用解析",
+"url":"https://parse.example.com"
+}
+]
 }
